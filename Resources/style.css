@@ -5,7 +5,7 @@ h1 {
   color: khaki;
   text-align: center;
 }
-.image {background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg);
+.image {background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg");
 }
 
 
@@ -21,7 +21,7 @@ h2 {
   .paint {background-color: skyblue;}
 
 span {
-  color: blue;
+  color: skyblue;
   font-weight: bold;
   font-family: Helvetica;
 }
